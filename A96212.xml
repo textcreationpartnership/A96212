@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apologie of Colonell John Were, in vindication of his proceedings since the beginning of this present Parliament.</title>
+            <author>Were, John, d. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96212</idno>
+            <idno type="STC">Wing W1364</idno>
+            <idno type="STC">Thomason E21_34</idno>
+            <idno type="STC">ESTC R14409</idno>
+            <idno type="EEBO-CITATION">99859658</idno>
+            <idno type="PROQUEST">99859658</idno>
+            <idno type="VID">111753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111753)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apologie of Colonell John Were, in vindication of his proceedings since the beginning of this present Parliament.</title>
+                  <author>Were, John, d. 1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Were, John, d. 1658.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111753:1" rendition="simple:additions"/>
+            <p>THE APOLOGIE OF COLONELL <hi>JOHN WERE,</hi>
+            </p>
+            <p>In vindication of his Proceedings ſince the beginning of this preſent PARLIAMENT.</p>
+            <figure>
+               <figDesc>decorative device</figDesc>
+            </figure>
+            <p>
+               <add>Decemb" 20<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed in the yeare. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111753:2"/>
+            <head>
+               <hi>The Apologie of Colonell</hi> John Were <hi>in vindi<g ref="char:EOLhyphen"/>cation of his proceedings, ſince the beginning of this preſent Parliament.</hi>
+            </head>
+            <p>MY Conſcience is within me cleare, and quiet, and therein I have given ſatisfaction to my ſelfe my actions were not obſcure, nor done in darkeneſſe, and they render me an intire man to all that ſaw them, or knew me; yet am I ſo unhappie as to ſuffer by the meere guilt of rumour, or by ſome aſpertions caſt upon me by the ſubtile enemy, whoſe intereſt is the diſcord of friends, wherein I can claime no privi<g ref="char:EOLhyphen"/>ledge above my Saviour, who was not free of ſlaunders; 'Tis for his cauſe that I glory I have ſhed my blood, nor neede I repine to be a ſufferer like him: And certainly neither the hardſhip of mine own impriſonment, nor the diſtreſt condition of my tender family, could have induced me to have dained ſo much to a falſe rumour, as to have given this open ſatisfaction, were there any more noble way left me to vindicate my reputation, more pretious, then my life; But ſince neceſſity inforceth me to this Apologie, take it, without gloſſe or ſmooth expreſſion, my co<g ref="char:cmbAbbrStroke">̄</g>merce is more with the Souldier then the Orator, and plaine truth is to it ſelfe a ſufficient coun<g ref="char:EOLhyphen"/>tenance. I undertooke not this ſervice for private intreſt, revenge, or pay, I had an eſtate co<g ref="char:cmbAbbrStroke">̄</g>petent left by my Anccſtors, the office of a Juſtice of Peace I long had executed in my Country, and I wanted not ſolicitations to adheare to the Kings party, being put into the Commiſſion of Aray, but upon Aſſembly of the Gentry that were that way affected, hearing ſome diſcourſe that tended both to the diſhonour of God, and the overthrow of the common liberty, I totally diſavowed the executing that Commiſ<g ref="char:EOLhyphen"/>ſion, and fully reſolved with my utmoſt to promote the purity of Religi<g ref="char:EOLhyphen"/>on, and the publique peace, I applied my ſelfe to Sir <hi>Peter Prediux</hi> a De<g ref="char:EOLhyphen"/>puty Leiftenant, and from him received a Commiſſion in the Militia, be<g ref="char:EOLhyphen"/>ing the firſt, and I ſuppoſe the laſt Gentleman in <hi>Devonſhire,</hi> that raiſed and continued a Regement in that County, and ſince have raiſed ſeverall Re<g ref="char:EOLhyphen"/>gements at my owne charge, at ſeverall times all actually imployed in the Parliaments ſervice; the particulars of which imployments have beene thus. Vpon the Lord Marqueſt of <hi>Hartford</hi> and Sir <hi>Ralph Hoptons</hi> firſt ſur<g ref="char:EOLhyphen"/>priſing <hi>Shurburne Caſtle,</hi> a party of the County of <hi>Devon</hi> were ſummoned at <hi>Collumpton,</hi> whether I brought a conſiderable number and was deſired
+<pb n="2" facs="tcp:111753:2"/> to march thither and to perſwade that Regement, which I did, and by reaſon of my reſpects and vicinity with them, I got readily their conſent, though they had ſtood mute to others before, and marched with three companies of them, this was my firſt imployment. The next Sir <hi>Ralph Hopton</hi> and the Corniſh forces advancing towards <hi>Exon,</hi> I brought into that City a good ſupply of men and maintained it, untill we were relieved by the Earle of <hi>Stanford</hi> our then Generall, where, for that ſervice &amp; kee<g ref="char:EOLhyphen"/>ping <hi>Cowley Bridge</hi> with much diſadvantage againſt a violent ſtorme I re<g ref="char:EOLhyphen"/>ceived a memoriall of their loves and thankes, then was <hi>Belfore</hi> made by the ſaid Earle my Major, I was commanded to ſend him with 100. Dra<g ref="char:EOLhyphen"/>goneares, to march with the Army, the reſt of the Regement to disband which I did: Then after their defeate in <hi>Cornewell, Plymouth</hi> being be<g ref="char:EOLhyphen"/>ſieged, I was commanded to bring what force I could to <hi>Exon</hi> to joyne with the Regements there, where I brought a conſiderable number of my friends and neighbours, and from thence marcht to <hi>Modbury,</hi> and after a long fight the enemy was beaten thence, and <hi>Plymouth</hi> relieved, and a treaty of both Counties <hi>Devon</hi> and <hi>Cornewell</hi> aſſented to, and my Rege<g ref="char:EOLhyphen"/>ment with the reſt of the Army was disbanded, the treaty broke off I was againe commanded to bring my Regement to <hi>Crediton,</hi> whence I marcht to <hi>Stratton,</hi> where I continued all the fight and came off with my generall who continued to the laſt, having I ſuppoſe not twenty men left with him, when he fired with our aſſiſtance divers peeces of Ordnance upon the Ene<g ref="char:EOLhyphen"/>my, the Earle went to <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>iford,</hi> thence to <hi>Exon,</hi> I to mine own houſe where Sir <hi>Ralph Hopton</hi> bei<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon his march, I received an other Summon to bring in my Regement, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as many as I could procure to <hi>Exon</hi> which I did, thence upon a Petition, I was ſent to <hi>Tewerton,</hi> where I was like to have beene betrayed by the Mayor, and was forced wanting Armes Am<g ref="char:EOLhyphen"/>munition and men, to goe for <hi>Taunton,</hi> having got up what force I could. I marcht through the enemies quarters with much hazard, and came a<g ref="char:EOLhyphen"/>gaine to <hi>Exon,</hi> where I continued all the ſiege: after the ſurrender of that City upon compoſition, I went to my owne houſe, where I could not ſtay without I would take up Armes for the King, which rather then I would doe, I choſe to leave my wife, children and eſtate to the mercy of the Enemy, though the Parliament was then in it's loweſt ebbe. Then I came to <hi>Lym<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> thence to <hi>London,</hi> where I was againe imployed by the Par<g ref="char:EOLhyphen"/>liament, and ſent to <hi>Lyme</hi> with about 200. men, with them I beate up <hi>Bridgport</hi> quarters of the Enemy and tooke 100. good horſe, which ſo hartened the Inhabitants about <hi>Hemlocke,</hi> that they generally roſe to free themſelves, and ſent to me for ſome aſſiſtance of Horſe and Officers, which by a generall conſent of a Councell of Warre at <hi>Lyme</hi> was gran<g ref="char:EOLhyphen"/>ted,
+<pb n="4" facs="tcp:111753:3"/> and Major <hi>Butler</hi> ſent with 60. Horſe thither, to bring them to mee at <hi>Studcombe Houſe,</hi> which order, if it had beene obſerved, I at that inſtant beating up <hi>Collinten</hi> quarters of the Enemy, taking moſt of that Gariſon priſoners, I deſire all <hi>Deavonſhire</hi> men to conſider whether I had not beene maſter of the field as farre as <hi>Exon,</hi> this was done before Leifetenant Colonell <hi>Blakes</hi> comming downe, theſe ſucceſſes drew Prince <hi>Morris</hi> to leave <hi>Plymoth,</hi> and beſige <hi>Lyme</hi> where I continued all the ſiege being ſhot, though not governor, yet commander in chiefe of moſt of the forces in the town, in all this time I beleeve there was not the leaſt ſuſpition of infi<g ref="char:EOLhyphen"/>delity in me, for I was received into my Country with as much honour as they could give, or I expect for the good ſervice I had don, witnes the great appearance I had at the firſt ſummons, when his Excellency came down, w<hi rend="sup">ch</hi> I think all the Army can teſtifie, for within a ſhort time I raiſed two Regements, one of horſe, the other of foote without money; when his Ex<g ref="char:EOLhyphen"/>cellency marcht into <hi>Cornewell,</hi> I went with him never being off my Re<g ref="char:EOLhyphen"/>gement, untill our Armes as is well knowne, were laid downe, and then had not gone from them but upon this occaſion, quarters and good tearmes being compounded for, by Major Generall <hi>Skippon</hi> and the Councell of Warre, we marched from <hi>Caſtell dore</hi> to <hi>Loſtwithiell,</hi> where at the Bridge were many barbariſmes uſed, ſome killed, others flung into the water, moſt plundered, and three of my colours taken away, and I for the ſafety of my life was forced to croſſe the water, and with much ſpeede to recover the hill where Major Generall was, I acquainted him with the paſſages, &amp; there ſtaying untill the Army came up, I met with Major <hi>Bel<g ref="char:EOLhyphen"/>fore,</hi> ſometimes Major of my Regement by order aforeſaid, but then tur<g ref="char:EOLhyphen"/>ned to the King, who told me he wiſhed me well, and ſaw that I was wet, and heard that I was wounded, and that our Army was to lye that night upon the hill, where they would be plundered, adviſed and perſwaded me to goe to his quarters, ingaging the faith of a Souldier bee would ſee me ſafe to our Army againe the next morning, then I finding my ſelfe in a wett and ſicke condition ſo as that nights colde lodging might have indangered my life, I tooke his word, relying ſome thing upon our for<g ref="char:EOLhyphen"/>mer intimacy of acquaintance, but principally upon that faith, which if broken, ſo much diſhonoreth a Gentleman or Souldier, &amp; with two of the Convoy went Maſter <hi>Salway</hi> my Chalplaine and Cornet <hi>Davis</hi> who ac<g ref="char:EOLhyphen"/>companying me to <hi>Liskard,</hi> where we were civily dealt withall that night, the next morning when we thought to returne, the houſe and towne were full of ſouldiers, where we had beene barbarouſly uſed had not the con<g ref="char:EOLhyphen"/>voy protected us, then ſending for <hi>Belfore,</hi> I deſired him to make good his promiſe unto me which he baſely and ungentlemanlike denied ſaying,
+<pb n="5" facs="tcp:111753:3"/> there had beene much enquirie for me that night, and that I muſt goe to Sir <hi>Richard Grendvile,</hi> I was not then in a condition to conteſt more then with bare words, and ſo went with him to <hi>Grendvile,</hi> who lay in the ſame town, no ſooner came I thither, but I acquinted him with the paſſage, deſi<g ref="char:EOLhyphen"/>ing him as he was a Souldier to ſend me to the Army againe, w<hi rend="sup">ch</hi> he refuſed ſaying, I had beene the moſt active enemy they had and he was glad hee now had me in his cuſtody, and that he would ſend me to the King upon breach of the Articles, in learning the rode way with the Army, I told him it was <hi>Belfores</hi> ingagement brought me thither, he replyed, <hi>Belfore</hi> was a foole to promiſe more then he could performe, and ſo put me into another roome, and within a ſhort time ſent for me againe, telling me I muſt either to the King or ſerve him, and then I ſhould not want encouragements; truely this their baſe carriages did much amaſe me, and perceiving I could not avoide going to the King, of whom by reaſon of my former actions, I could expect little favour, or ſuffer under the hands of an unruly multi<g ref="char:EOLhyphen"/>tude who thronged about me with many menaces, in this extremity I promiſed to ſerve the King, but with a ſecret reſervation to my ſelfe, no further then he complyed with his Parliament, holding it no ſinne to de<g ref="char:EOLhyphen"/>ceive them that had beene twice perfidious to me, then <hi>Grendvile</hi> gave mee in charge to Major <hi>Mohum,</hi> who brought me that evening to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Goring,</hi> unto whom upon the ſame conſtraint as to <hi>Grendvile,</hi> I ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ſame promiſe; then was I carried that night with a ſufficient guard to Maſter <hi>Trefrayes</hi> houſe, the next day to <hi>Okehampton,</hi> where I met our Ar<g ref="char:EOLhyphen"/>my, but was not ſuffered to ſtay there, but by <hi>Mohum</hi> was carried a mile out of the towne, where my Major came unto mee, to him I gave forty ſhillings for to buy victualls for my Souldiers, and told him privately and paſſionately how baſely I had beene uſed by <hi>Belfore,</hi> deſiring him to aſ<g ref="char:EOLhyphen"/>ſure the Major Generall I would ſpeedily be with him, for I would never ſerve againſt the Parliament, this he is more a Souldier then to deny, if he do, I can prove his confeſſion of it. Thence I was carried to <hi>Tiverton</hi> where Sir <hi>John Bearkley</hi> lay, unto whom I made the ſame promiſe as to <hi>Gren<g ref="char:EOLhyphen"/>vile</hi> and <hi>Goring,</hi> and got of him a releaſe for divers Souldiers there taken up, and brought them to mine owne houſe, where giving them money and victualls, I ſent them to our Armie, telling them with as much aſſurance as in diſcretion was thought fit, I would never ſerve againſt the Parliament; this I did to them and others, which I can prove if my owne words in my owne cauſe be not currant, the friday after the compoſſition I came to my owne houſe, the Sabboth following came Colonell <hi>Lindſie</hi> and ſome eight perſons more with him unto me, who demanded in a rough way of me the reaſon I had not ſent out my warrants, ſaying, when I was for the Parliament
+<pb n="6" facs="tcp:111753:4"/> I was daily active, now I did nothing ſwearing they would make me doe i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end me to <hi>Ex<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> I replied what I did for the Parliament I had com<g ref="char:EOLhyphen"/>miſſion for, and quarters for my men now. I had neither then ſaid <hi>Linſey</hi> write a letter to the Lord <hi>Goring</hi> and I will carry it, and you ſhall have any thing upon it. I writt a ſmooth letter to <hi>Goring,</hi> &amp; had an order to free <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom <hi>Ha<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>rton</hi> his then quarters<g ref="char:punc">▪</g> &amp; for me to quarter there, this Order I ſhewed to <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hum,</hi> and ſo was freed of thoſe two tormentors, that night I intended to goe for <hi>Taunton,</hi> but before night in came <hi>Cockin</hi> and his troope, and Captaine <hi>M<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>efor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> quartered at my houſe; then ſent I to Captaine <hi>K<gap reason="illegible" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap>
+               </hi> to know whether hee could not bring me twenty honeſt men from <hi>Sampf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd</hi> our neighbour Pariſh, and we would adventure upon that troope, and bring them away, he ſaid no, it was hard to truſt Country followes with ſo weighty a ſecret as concernes our lives, theſe fell<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes kept ſo ſtrict a guard over us as wee could not eſcape without danger and infinite hazard, we wanting horſe and other accommodati<g ref="char:EOLhyphen"/>ons for our diſpatch; at laſt God offered a meanes the which I tooke, this Captaine <hi>Mu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> deſired me to make him Captaine of <hi>Tiverton</hi> Com<g ref="char:EOLhyphen"/>pany, I pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceived by it a company would worke much with him, which I g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anted ſo hee would aſſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t me in bringing in my Regement, hee not without oathes promiſed it then the next day being Sunday, I tooke the advantage and car<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him to the Conſtable of <hi>Halbertones</hi> houſe, unto whom I did openly before <hi>Muddifor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Cockin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> quartermaſter deliver a warrant, but before had privily told him my intentions never to ſerve a<g ref="char:EOLhyphen"/>gainſt the Parliament; and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewed them a ſmooth letter that I had writt t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sir <hi>J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Bar<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> &amp; deſired them to ſend it<g ref="char:punc">▪</g> this bread ſuch a confidence in them that <hi>Muddifor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ride with me and Quartermaſter <hi>Baker</hi> to one <hi>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas Knights</hi> houſe, where I had appointed Captaine <hi>Kerslake</hi> and his Leiuetenant to meete me where we dined, and after dinner under pretence of this warrant which <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddif<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had, we brought him in by waies ſome ſeven miles neare <hi>Milverton Heffeild</hi> where we underſtood of a troope of the enemies horſe not farre before us, and <hi>Muddifor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> miſtruſting by rea<g ref="char:EOLhyphen"/>ſon of our whiſpering rid away, otherwiſe wee had brought him away priſoner, then I and my company poſted to <hi>Taunton,</hi> where I was hartily welcomed by Leivtenant Colonell <hi>Blake</hi> the governour of the Caſtle: the next day being munday, I ſent one <hi>Bartholomew Merſon</hi> with warrants to countermand them I had delivered the day before, commanding the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untry to appeare before me at <hi>Taunt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> upon it divers came in, who I beleeve are in actuall ſervice now there I ſtayed aweeke, and had conti<g ref="char:EOLhyphen"/>nued longer as there was neede, had not the <hi>London</hi> Pamphleteeres beene <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l of the ſcand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of my revolt, which to cleare, and to give the world
+<pb n="7" facs="tcp:111753:4"/> ſatisfaction of my integrity, by offering my ſelfe ready to wipe off that aſpertion came away, having with me a large teſtimony under the Gover<g ref="char:EOLhyphen"/>nours hands to <hi>Shasbury</hi> to Sir <hi>William Waller,</hi> with whom and Sir <hi>Arthur Haſterig</hi> I had ſome diſcourſe, thence I came to <hi>Southampton</hi> where I was impriſoned by his Excellencies Order, otherwiſe I had come to <hi>London</hi> of mine owne accord. But I heare a rumour among the mul<g ref="char:EOLhyphen"/>titude that I,</p>
+            <p>
+               <label>Obj. 1.</label> Suffered the Bridge to bee taken by the Kings forces, otherwiſe they had never entred <hi>Cornewall.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> When the King entred <hi>Cornewall</hi> our Army was neere 20 miles off, and I then by command was at <hi>Loſtwithell.</hi>
+            </p>
+            <p>
+               <label>Obj. 2.</label> That I had the keeping of a Bridge neere the Lord <hi>Roberts</hi> houſe.</p>
+            <p>
+               <label>Anſ.</label> I ſent by order a party of Dragoones thither, and kept it untill by order they were drawne off, as Captaine <hi>Sheeres</hi> and other Captaines can teſtifie.</p>
+            <p>
+               <label>Obj. 3.</label> That I had the command of a Caſtle neere <hi>Loſtwithell</hi> which was loſt.</p>
+            <p>
+               <label>An.</label> Tis true, a party of men were ſent out of my Regement without my conſent theither by two caſhiered Captaines formerly under my com<g ref="char:EOLhyphen"/>mand, but by what order they were ſent thither, or how diſcharged of that command I know not, I beleeve no generall officer will ſay hee gave me the charge of that place, there being but 18 men in it.</p>
+            <p>
+               <label>Ob. 4.</label> That I quited the Poſt at <hi>Caſtledoore</hi> being there Commanded by Major Generall <hi>Skippon.</hi>
+            </p>
+            <p>
+               <label>An.</label> It is true, I marched thither in the reare of my L. Generalls Rege<g ref="char:EOLhyphen"/>ment with one part of five of my Regement, and there continued untill my Lord Generalls Regement came backe and routed mine, then I did my uttermoſt to preſerve the Ordnance and brought them into a lane nereby, and placed as many men as I could make ſtand in a ground at moſt advan<g ref="char:EOLhyphen"/>tage, this I did of my ſelf when the Colonell of the other Regement with<g ref="char:EOLhyphen"/>drew himſelfe.</p>
+            <p>
+               <label>Ob.</label> But you have ſpoken words that doe not tend to the honour of the Lord Generall.</p>
+            <p>
+               <label>An.</label> I confeſſe I have ſpoken that in ſome paſſion which might have beene well left unſaid, which I will as nakedly confeſſe as the reſt being demanded, and I hope not of that nature as to extinguiſh all former merit.</p>
+            <p>
+               <label>Obj. 6.</label> That I carried my Regement to the King.</p>
+            <p>
+               <label>An.</label> Let proofe be made that I carried one man, or adviſed any ſo to doe, or was with the King then let me ſuffer to the utmoſt.</p>
+            <p>
+               <label>Obj. 7.</label> That you were with Colonell <hi>Barkley,</hi> and did not deſire him to demand you upon the Articles.</p>
+            <pb n="8" facs="tcp:111753:5"/>
+            <p>
+               <label>Anſ.</label> Tis true I met him, but had I acquainted him and deſired him to have demanded me upon the Articles I beleeve I had never met him againe for they that cared not to breake Articles upon no pretence, what would they have done to me having ſome colour for it, it would have certainely endangered my life.</p>
+            <p>And thus you have plaine punctall Narration of my actions; wherein perhaps may be ſome weakneſſes; Let him accuſe me that hath not any; However I was neither falſe, or prejudiciall to the cauſe, though per<g ref="char:EOLhyphen"/>haps ſome ſlaunder inſinuated by the enemy (to worke diviſions) have repreſented ſuch, as alſo the heate and paſſion of a Souldier may carry him to ſome extravagancies when his heart is reall; I juſtifie my actions, few men can all their curſory caſuall diſcourſes; if mine have erred, it has been on the right hand, out of too paſſionate zeale to the good ſucceſſe of this cauſe; the which I ſo much tender, that I would rather lye a priſoner, then interupt the proceedings thereof by an unſeaſonable petition, though a triall be that which ſo much above all things I deſire; my preſent ſuffe<g ref="char:EOLhyphen"/>rance not ſo much grieving me as the preſent ſcandall I lye under, and the frequent ſcoffings of the diſaffected, to ſee me ſo much diſcountenanced by thoſe for whoſe proſperity I have forſaken wiſe, children, houſe and lands, ſpilt my blood, having at this inſtant a wound greene, a bullet in my body, and not expended leſſe then all; ſcarſe having ought left to yeeld my ſelfe and family a ſubſiſtance, eſpecially where the expences are not ſmall, But I waite deliverance from God and good men.</p>
+            <closer>
+               <signed>John Were.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
